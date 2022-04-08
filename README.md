@@ -5,6 +5,9 @@ https://th-koeln.zoom.us/j/81886061043
 Meeting ID: 818 8606 1043
 Passcode: 50678
 
+* Fulltexts of the Papers are on [Sciebo](https://th-koeln.sciebo.de/s/GpcBDenI0vRL5Ek).
+* [Slides of our kick-off meeting](slides/01-kickoff.pdf) are available. 
+
 * Relevance theory [(Sperber/Wilson)](https://jeannicod.ccsd.cnrs.fr/ijn_00000101/document)
 * Relevance theory and citations [(White)](https://www.sciencedirect.com/science/article/abs/pii/S0378216611001949?via%3Dihub)
 * Polyrepresentation - Overview [(Ingwersen)](http://peteringwersen.info/publications/3240_cognitive_perspectives_of_representation-isko_2001_keynote.pdf)

@@ -8,7 +8,7 @@
 
 ## Schedule for 27 June 2022
 
-Talks are 30 minutes presentation and 15 minutes discussion.
+Talks are 30 minutes presentation and 15 minutes discussion. We will meet in Room 147 at Campus Südstadt.
 
 * 10:00 - Overview and Introduction
 * 10:15 - Relevance theory and citations [(White)](https://www.sciencedirect.com/science/article/abs/pii/S0378216611001949?via%3Dihub) - Lövenich
